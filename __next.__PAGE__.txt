@@ -1,7 +1,0 @@
-1:"$Sreact.fragment"
-2:I[44486,["/cs416-web-demo/_next/static/chunks/5c197553df359464.js"],"default"]
-3:I[97367,["/cs416-web-demo/_next/static/chunks/42879de7b8087bc9.js"],"OutletBoundary"]
-4:"$Sreact.suspense"
-:HL["/cs416-web-demo/_next/static/chunks/5cfa4e475993d15a.css","style"]
-0:{"buildId":"Fd3o2K1SRACa9kYVioASg","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"Home-module__g21JLG__container","children":[null,["$","main",null,{"className":"Home-module__g21JLG__main","children":[["$","h1",null,{"className":"Home-module__g21JLG__title","children":"Use ORT Web"}],["$","$L2",null,{"width":240,"height":240}],["$","div",null,{"id":"result","className":"mt-3"}]]}],["$","footer",null,{"className":"Home-module__g21JLG__footer","children":["$","a",null,{"href":"https://onnxruntime.ai/docs","target":"_blank","rel":"noopener noreferrer"}]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/cs416-web-demo/_next/static/chunks/5cfa4e475993d15a.css","precedence":"next"}],["$","script","script-0",{"src":"/cs416-web-demo/_next/static/chunks/5c197553df359464.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
